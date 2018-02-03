@@ -7,7 +7,12 @@
 ~~~
 <div class="reveal">
     <div class="slides">
-        <section data-markdown="1.md" data-separator="^---$" data-separator-vertical="===$" data-notes="^Note:" data-charset="utf-8"></section>
+        <section data-markdown="1.md"
+                 data-separator="^---$"
+                 data-separator-vertical="===$"
+                 data-notes="^Note:"
+                 data-charset="utf-8">
+        </section>
     </div>
 </div>
 ~~~
